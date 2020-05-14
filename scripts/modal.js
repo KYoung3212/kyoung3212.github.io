@@ -13,14 +13,14 @@ $(document).ready(function(){
       title: 'Airbnb Template ',
       tag: 'Self-created template utilizing HTML5 & CSS3',
       detail: 'My self-created airbnb website template demonstrates my ability to create a responsive homepage for companies who want to catch the user interest with a modern look/approach.',
-      link: 'https://kyoung3212.github.io/projects/airbnb-template',
+      link: 'https://kyoung3212.github.io/projects/template-airbnb/',
       github: 'https://github.com/KYoung3212/template-airbnb'
     },
     SGT: {
       title: 'Student Grade Table',
       tag: 'FULL-STACK STUDENT GRADE TRACKING SYSTEM.',
       detail: 'A Content Management System (CMS) that allows users to search, create, read, and delete student grade information from a MySQL database. As a full-stack web application that utilizes PHP calls to access the customized MySQL tables, SGT utilizes CRON to regularly scrub data to protect from hackers and profanity. A search bar is also implemented to easily narrow the student list down based off student name, course, and grade.',
-      link: 'https://kyoung3212.github.io/projects/SGT',
+      link: 'https://kyoung3212.github.io/projects/student-grade-table/',
       github: 'https://github.com/KYoung3212/student-grade-table'
 
     },
@@ -36,7 +36,7 @@ $(document).ready(function(){
       title: 'Audio Visualizer',
       tag: 'Loadable/Real-time audio visualizer.',
       detail: 'The Audio Visualizer brings any .mp3 file to life with the use of Canvas and .mp3 uploads.',
-      link: 'https://kyoung3212.github.io/projects/audio-visualizer',
+      link: 'https://kyoung3212.github.io/projects/audio-visualizer/',
       github: 'https://github.com/KYoung3212/audio-visualizer'
 
     },
