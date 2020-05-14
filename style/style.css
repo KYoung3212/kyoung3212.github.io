@@ -813,6 +813,11 @@ footer {
   section:nth-of-type(3) #gallery .mix .card {
     width: 100vw; } }
 @media screen and (min-width: 600px) {
+	.modal-button {
+		margin-bottom: 40vh;
+	}
+}
+@media screen and (min-width: 600px) {
 
   body {
     font-size: 12pt; }
@@ -1027,12 +1032,11 @@ footer {
 
 @media (max-width: 768px) {
   .btn-responsive {
-    padding:2px 4px;
     font-size:80%;
-    line-height: 1;
     /* width: 5%; */
     left: 60%;
-
+    line-height: 1;
+    padding:2px 4px;
   }
 }
 
