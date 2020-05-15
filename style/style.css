@@ -1037,7 +1037,7 @@ footer {
 
 @media screen and (max-width: 600px) {
 	.modal-button, .modal-close {
-		margin-bottom: 40vh;
+		margin-bottom: 10vh;
 	}
 }
 
